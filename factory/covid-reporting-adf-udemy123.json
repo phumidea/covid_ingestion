@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-udemy123",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de11e688-d1bb-474c-9ec1-75bb78cde840",
+		"tenantId": "400480ae-2469-4f8d-bbcc-174b79ea37c1"
+	}
+}
